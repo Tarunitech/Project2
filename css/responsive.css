@@ -1,0 +1,10 @@
+@media screen and (max-width: 767px) {
+  .card-group {
+    flex-flow: column;
+  }
+  .about_left{
+  	justify-content: center;
+  	text-align: justify;
+  	align-items: center;
+  }
+}
